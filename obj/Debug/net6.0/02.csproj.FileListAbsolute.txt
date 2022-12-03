@@ -1,0 +1,15 @@
+/home/nick/Documents/code/AdventOfCode/02/bin/Debug/net6.0/02
+/home/nick/Documents/code/AdventOfCode/02/bin/Debug/net6.0/02.deps.json
+/home/nick/Documents/code/AdventOfCode/02/bin/Debug/net6.0/02.runtimeconfig.json
+/home/nick/Documents/code/AdventOfCode/02/bin/Debug/net6.0/02.dll
+/home/nick/Documents/code/AdventOfCode/02/bin/Debug/net6.0/ref/02.dll
+/home/nick/Documents/code/AdventOfCode/02/bin/Debug/net6.0/02.pdb
+/home/nick/Documents/code/AdventOfCode/02/obj/Debug/net6.0/02.csproj.AssemblyReference.cache
+/home/nick/Documents/code/AdventOfCode/02/obj/Debug/net6.0/02.GeneratedMSBuildEditorConfig.editorconfig
+/home/nick/Documents/code/AdventOfCode/02/obj/Debug/net6.0/02.AssemblyInfoInputs.cache
+/home/nick/Documents/code/AdventOfCode/02/obj/Debug/net6.0/02.AssemblyInfo.cs
+/home/nick/Documents/code/AdventOfCode/02/obj/Debug/net6.0/02.csproj.CoreCompileInputs.cache
+/home/nick/Documents/code/AdventOfCode/02/obj/Debug/net6.0/02.dll
+/home/nick/Documents/code/AdventOfCode/02/obj/Debug/net6.0/ref/02.dll
+/home/nick/Documents/code/AdventOfCode/02/obj/Debug/net6.0/02.pdb
+/home/nick/Documents/code/AdventOfCode/02/obj/Debug/net6.0/02.genruntimeconfig.cache
